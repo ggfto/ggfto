@@ -17,7 +17,8 @@ At the beginning of June of 2020 I started a hobby project with a friend, tha co
 
 ## What I know something
 
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg"><img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD031.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD031.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 ### Contribution
 
