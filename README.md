@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ggfto&color=yellow" alt="Profile views" /> </p>
 # Hello World!
 
 I'm Gabriel Guimaraes, and here we have one of my hobbies and also my daily job!
