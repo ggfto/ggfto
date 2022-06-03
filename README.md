@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ygoramoreira/d1079a12a1764701906c0bb8fba7f5d1/raw/840868ed3f3dba947e82a9ec611848f6a5d2723c/githubcard.svg"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 # Hello World!
 
 I'm Gabriel Guimaraes, and here we have one of my hobbies and also my daily job!
