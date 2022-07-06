@@ -9,7 +9,7 @@ Since I was a child I've been fascinated with technology and always wondered wha
 
 In 2019 I decided to take an opportunity as a Full time Delphi developer, this consequently brought me to the JAVA world after 9 months till now. Nowadays, I've developed some docker skills, something that I'm loving the experience and using it more everyday.
 
-At the beginning of June of 2020 I started a hobby project with a friend, tha consists of building a GTAV RP server just for fun, that's when Lua came to my life. I personally don't like programming in Lua, but, since it's necessary, I do.
+At the beginning of June of 2020 I started a hobby project with a friend, it consists of building a GTAV RP server just for fun, that's when Lua came to my life. I personally don't like programming in Lua, but, since it's necessary, I do.
 
 ## What I know the most
 
