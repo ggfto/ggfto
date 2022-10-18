@@ -29,3 +29,5 @@ At the beginning of June of 2020 I started a hobby project with a friend, it con
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/289124013375094794)
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ggfto@outlook.com?subject=Github)
+
+![Snake animation](https://github.com/ggfto/ggfto/blob/output/github-contribution-grid-snake.svg)
