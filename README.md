@@ -23,6 +23,7 @@ At the beginning of June of 2020 I started a hobby project with a friend, it con
 
 ![Github Contributions](https://github-readme-stats.vercel.app/api?username=ggfto&theme=dracula&show_icons=true&hide_title=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ggfto&show_icons=true&layout=compact&theme=dracula)
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=ggfto&theme=dracula)
 
 ### Contact
 
