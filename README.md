@@ -1,4 +1,4 @@
-[![GGFTO's GitHub Banner](./assets/myoctocat.png)](https://me.gf2.in)
+[![GGFTO's GitHub Banner](./assets/myoctoscenary.png)](https://me.gf2.in)
 
 # Hello World!
 
