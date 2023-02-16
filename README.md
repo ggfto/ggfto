@@ -1,5 +1,3 @@
-[![GGFTO's GitHub Banner](./assets/myoctoscenary.png)](https://me.gf2.in)
-
 # Hello World!
 
 I'm Gabriel Guimaraes, and here we have one of my hobbies and also my daily job!
