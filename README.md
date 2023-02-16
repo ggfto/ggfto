@@ -21,6 +21,11 @@ At the beginning of June of 2020 I started a hobby project with a friend, it con
 
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge"> <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD031.svg?style=for-the-badge"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge"/>
 
+### Organizations
+<a href="https://github.com/thissthecity"><img src="https://avatars.githubusercontent.com/u/108835009?s=64&amp;v=4" alt="@thissthecity" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
+<a href="https://github.com/souzafreitas"><img src="https://avatars.githubusercontent.com/u/125031213?s=64&amp;v=4" alt="@souzafreitas" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
+<a href="https://github.com/guimaraesdona"><img src="https://avatars.githubusercontent.com/u/109564478?s=64&amp;v=4" alt="@guimaraesdona" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
+
 ### Contribution
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ggfto&show_icons=true&layout=compact&theme=dracula)
