@@ -1,15 +1,12 @@
 # Hello World!
 
-I'm Gabriel Guimaraes, and here we have one of my hobbies and also my daily job!
+### Português
 
-## About me
-I'm a Eletrocnics Technician, graduated in SENAI class of 2011/2013.
+Olá, meu nome é Gabriel Guimarães e sou um desenvolvedor fullstack com mais de 10 anos de experiência em hardware e software. Também sou técnico em eletrônica e possuo habilidades em diversas linguagens, como Java, Delphi, C, C#, JavaScript, HTML, CSS e Lua. Estou sempre em busca de novos desafios e oportunidades para aprimorar meus conhecimentos e desenvolver soluções criativas e eficientes para meus clientes e projetos.
 
-Since I was a child I've been fascinated with technology and always wondered what could I do with it. At the age of 13 I won my first computer as a gift from my father and then my journey started. With 14 years I learned how to install multiple operational systems, with emphasis in windows. With 18 years, I started working with Access Control equipment and also Industrial Automation. One year later, I started to develop in Delphi/Pascal, building only custom reports for customers of the company. Some time in 2010, I also started to build softwares related to Access Control and providing support on field and some administrative tasks. 9 years passed like this. In the meantime, I developed skills with SQL, CSS, HTML, Firewalls, Linux OS, VPNs, etc.
+### English
 
-In 2019 I decided to take an opportunity as a Full time Delphi developer, this consequently brought me to the JAVA world after 9 months, till now. I've also developed some docker skills, something that I'm loving the experience and using it more everyday.
-
-At the beginning of June of 2020 I started a hobby project with a friend, it consists of building a GTAV RP server, that's when Lua came to my life.
+Hi, my name is Gabriel Guimarães and I'm a fullstack developer with over 10 years of experience in hardware and software development. I'm also an electronics technician and have skills in several programming languages such as Java, Delphi, C, C#, JavaScript, HTML, CSS, and Lua. I'm always looking for new challenges and opportunities to improve my knowledge and develop creative and efficient solutions for my clients and projects.
 
 ## What I know the most
 
