@@ -1,6 +1,6 @@
 ## Gabriel Guimarães - Fullstack Developer & Electronics Technician
 
-### 🇵🇹 **Português**
+### 🇧🇷 **Português**
 Olá! Meu nome é Gabriel Guimarães e sou um desenvolvedor fullstack com mais de 10 anos de experiência em hardware e software. Como técnico em eletrônica, também gosto de explorar o desenvolvimento de sistemas embarcados. Estou sempre em busca de novos desafios e oportunidades para melhorar minhas habilidades e desenvolver soluções criativas e eficientes para meus clientes e projetos.
 
 ### 🇺🇸 **English**
