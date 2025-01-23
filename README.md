@@ -37,11 +37,5 @@ Hi! My name is Gabriel Guimarães and I’m a fullstack developer with over 10 y
 
 ### 📬 **Entre em Contato / Contact Me**
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/289124013375094794)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/289124013375094794) 
 [![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ggfto@outlook.com?subject=Github)
-
----
-
-### 🐍 **Atividade no Github / Github Activity**
-
-![Snake animation](https://github.com/ggfto/ggfto/blob/output/github-contribution-grid-snake.svg)
