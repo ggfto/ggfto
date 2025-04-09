@@ -21,7 +21,6 @@ Hi! My name is Gabriel Guimarães and I’m a fullstack developer with over 10 y
 ### 🌍 **Contribuições e Organizações / Contributions and Organizations**
 
 <a href="https://github.com/mri-Qbox-Brasil"><img src="https://avatars.githubusercontent.com/u/164149697?s=64&amp;v=4" alt="@mri-Qbox-Brasil" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
-<a href="https://github.com/gt-scripts"><img src="https://avatars.githubusercontent.com/u/108835009?s=64&amp;v=4" alt="@gt-scripts" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
 <a href="https://github.com/souzafreitas"><img src="https://avatars.githubusercontent.com/u/125031213?s=64&amp;v=4" alt="@souzafreitas" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
 <a href="https://github.com/guimaraesdona"><img src="https://avatars.githubusercontent.com/u/109564478?s=64&amp;v=4" alt="@guimaraesdona" size="64" height="64" width="64" data-view-component="true" class="avatar"></a>
 
